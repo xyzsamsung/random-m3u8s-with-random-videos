@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:5,audio.destroy-3.mp4
+#EXTVLCOPT:network-caching=1000
+https://github.com/xyzsamsung/df/raw/main/audio.destroy-3.mp4
+#EXTINF:0,New_Project_1B011E1.mp4
+#EXTVLCOPT:network-caching=1000
+https://github.com/xyzsamsung/df/raw/main/New_Project_1B011E1.mp4
+#EXTINF:0,film_grain.mp4
+#EXTVLCOPT:network-caching=1000
+https://github.com/xyzsamsung/df/raw/main/film_grain.mp4
+#EXTINF:7,km_columbia_picturescreen_gem_720p_60f_20240312_143346.mp4
+#EXTVLCOPT:network-caching=1000
+https://github.com/xyzsamsung/df/raw/main/km_columbia_picturescreen_gem_720p_60f_20240312_143346.mp4
